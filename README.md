@@ -30,6 +30,9 @@ The project was created mainly for learning purposes by following tutorials, exp
 This is a beginner-friendly learning project created to document my progress in data analysis and improve my understanding of EDA concepts.
 
 ## Repository Contents
-- `netflix-data-analysis.ipynb` → Main notebook
-- `README.md` → Project overview
+
+- `netflixda.ipynb` → Main notebook containing the code, visualizations, and Q&A analysis
+- `testing.ipynb` → Notebook used for testing and experimenting with code
+- `netflixmoviedb.csv` → Dataset used for the analysis
+- `README.md` → Project overview and documentation
 - `.gitignore` → Ignored files configuration
