@@ -13,7 +13,6 @@ The project was created mainly for learning purposes by following tutorials, exp
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
