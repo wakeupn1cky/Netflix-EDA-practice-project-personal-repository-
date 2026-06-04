@@ -33,4 +33,3 @@ This is a beginner-friendly learning project created to document my progress in 
 - `testing.ipynb` → Notebook used for testing and experimenting with code
 - `netflixmoviedb.csv` → Dataset used for the analysis
 - `README.md` → Project overview and documentation
-- `.gitignore` → Ignored files configuration
